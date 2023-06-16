@@ -1,6 +1,6 @@
 # Google Pay: Ready to take over the embedded finance realm!
 <p align="center">
-<img src="https://github.com/seshouan/FinTech/blob/main/CaseStudy1/google-pay-logo-transparent-free-png.webp" alt=“GPayicon” width="20%" height="20%">
+<img src="GPay%20logo.webp" alt=“GPayicon” width="20%" height="20%">
 </p>
 
 **Contributor: Session Mwamufiya**
